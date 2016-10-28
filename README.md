@@ -2,3 +2,4 @@
 Prueba de Git con visual
 Owner: Alvaro Lucas
 Owner: Olga Tohabanda
+Owner: Lissette Huilca
